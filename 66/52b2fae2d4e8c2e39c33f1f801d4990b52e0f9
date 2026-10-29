@@ -1,0 +1,25 @@
+crates/oxc_linter/src/rules/vitest/valid_expect.rs
+  s_30982a48614034::t_87407d5c594452 154-158,164,192
+  s_30982a48614034::t_613924c6ba8cd0 159-163
+crates/oxc_linter/src/rules/shared/jest_vitest/valid_expect.rs
+  s_30982a48614034::t_613924c6ba8cd0 66,178-185
+  s_30982a48614034::t_974c33b37aa124 177,186
+crates/oxc_linter/src/snapshots/vitest_valid_expect.snap
+  s_30982a48614034::t_09b6fefc7edad2 63-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "6652b2fae2d4e8c2e39c33f1f801d4990b52e0f9",
+  "prompts": {},
+  "sessions": {
+    "s_30982a48614034": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18583-e7a9-7632-926c-1e55ba4ebce5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "CoderSerio <79406469+CoderSerio@users.noreply.github.com>"
+    }
+  }
+}
